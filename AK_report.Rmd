@@ -1,0 +1,19 @@
+---
+title: "ESM 244 Lab 2"
+author: "Kelsie Fronheiser"
+date: "1/14/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+install.packages("palmerpenguins")
+library(palmerpenguins)
+```
+
+```{r}
+
+```
+
